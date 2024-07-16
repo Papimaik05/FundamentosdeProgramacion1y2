@@ -1,0 +1,22 @@
+5
+Juan Ramirez
+0
+1
+10 10 10 10 0 0 0 0
+Carlos Gil
+1 
+1
+0 0 0 0 10 10 10 10 
+Inmaculada Lopez
+1 
+4
+0 0 0 0 20 20 20 20 
+Maria del Mar Gil
+7 
+0 
+0 0 0 0 0 0 0 10 
+Daniela Saenz 
+1
+6
+10 0 0 0 0 0 0 0
+

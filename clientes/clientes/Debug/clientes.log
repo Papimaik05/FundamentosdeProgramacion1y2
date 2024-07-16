@@ -1,0 +1,5 @@
+﻿  Clientes.cpp
+  main.cpp
+C:\Users\migue\OneDrive\Escritorio\recuprogra2\clientes\clientes\main.cpp(10,13): warning C4101: 'descuento': variable local sin referencia
+  Generando código...
+  clientes.vcxproj -> C:\Users\migue\OneDrive\Escritorio\recuprogra2\clientes\Debug\clientes.exe

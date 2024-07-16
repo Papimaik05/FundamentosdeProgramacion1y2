@@ -1,0 +1,33 @@
+4
+Marques de Murieta
+3
+pasta carne arroz
+0 95
+0 0
+0 0
+5 0
+0 0
+Flor de Muga
+3
+pescado verdura arroz
+0 35
+0 0
+60 0
+5 0
+0 0
+Prado Eneo
+4
+carne pasta arroz embutido
+10 0
+40 0
+0 50
+0 0
+0 0
+Castillo Ygay
+5
+pescado marisco arroz pate queso
+90 0
+0 10
+0 0
+0 0
+0 0

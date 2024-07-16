@@ -1,0 +1,33 @@
+3
+Gomez Alvarez
+Juan
+12345678A
+grado
+2 
+COD1
+Fundamentos de la Programacion 6
+COD7
+Fundamentos de Computadores
+6
+Garcia Garcia
+Luis
+87654321B
+grado
+3
+COD3
+Matematica Discreta y Logica Matematica
+COD4
+Fundamentos de Electricidad y Electronica
+COD8
+Metodos Matematicos de la Ingenieria
+6
+Martin Gonzalez
+Carmen
+87654321C
+grado
+2
+COD7
+Fundamentos de Computadores
+6 COD1
+Fundamentos de la Programacion
+6

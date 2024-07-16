@@ -1,0 +1,4 @@
+﻿  carrito.cpp
+C:\Users\migue\source\repos\carrito\carrito\carrito.cpp(210,7): error C2086: 'bool cantidadcorrecta': nueva definición
+C:\Users\migue\source\repos\carrito\carrito\carrito.cpp(202): message : vea la declaración de 'cantidadcorrecta'
+C:\Users\migue\source\repos\carrito\carrito\carrito.cpp(224,113): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos

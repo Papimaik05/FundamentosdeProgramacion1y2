@@ -1,0 +1,4 @@
+﻿  estanterias.cpp
+C:\Users\migue\source\repos\examenestantreriasrecu\examenestantreriasrecu\estanterias.cpp(10,63): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tArea' cuando no hay ninguna variable declarada
+C:\Users\migue\source\repos\examenestantreriasrecu\examenestantreriasrecu\estanterias.cpp(54,8): error C2065: 'IN': identificador no declarado
+C:\Users\migue\source\repos\examenestantreriasrecu\examenestantreriasrecu\estanterias.cpp(55,2): error C2143: error de sintaxis: falta ';' delante de '}'

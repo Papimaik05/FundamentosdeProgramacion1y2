@@ -1,0 +1,8 @@
+﻿  listaasignaturas.cpp
+C:\Users\migue\source\repos\matricula\matricula\listamatriculas.h(16,30): error C3646: 'asignatura': especificador de invalidación desconocido
+C:\Users\migue\source\repos\matricula\matricula\listamatriculas.h(16,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  listamatriculas.cpp
+  mian.cpp
+C:\Users\migue\source\repos\matricula\matricula\listamatriculas.h(16,30): error C3646: 'asignatura': especificador de invalidación desconocido
+C:\Users\migue\source\repos\matricula\matricula\listamatriculas.h(16,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  Generando código...

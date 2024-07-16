@@ -1,0 +1,8 @@
+0 0.55 10   coca-cola
+1 0.61 40   fanta
+2 0.45 30   cerveza
+3 0.15 5   vino de mesa
+4 0.99 60   gaseosa
+5 0.89 20   agua mineral
+6 0.37 10   cafe helado
+-1

@@ -1,0 +1,4 @@
+﻿  kue.cpp
+C:\Users\migue\source\repos\Parchisoficialfinal\Parchisoficialfinal\kue.cpp(344,7): warning C4101: 'c': variable local sin referencia
+C:\Users\migue\source\repos\Parchisoficialfinal\Parchisoficialfinal\kue.cpp(270): warning C4715: 'Jugador': no todas las rutas de acceso de control devuelven un valor
+  Parchisoficialfinal.vcxproj -> C:\Users\migue\source\repos\Parchisoficialfinal\x64\Debug\Parchisoficialfinal.exe

@@ -1,0 +1,6 @@
+﻿  bigkoko.cpp
+C:\Users\migue\source\repos\garaje\garaje\bigkoko.cpp(11,47): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tipocoche' cuando no hay ninguna variable declarada
+C:\Users\migue\source\repos\garaje\garaje\bigkoko.cpp(152,43): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\migue\source\repos\garaje\garaje\bigkoko.cpp(159,44): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+C:\Users\migue\source\repos\garaje\garaje\bigkoko.cpp(166,45): warning C4834: se descarta el valor devuelto de la función con el atributo "nodiscard"
+  garaje.vcxproj -> C:\Users\migue\source\repos\garaje\Debug\garaje.exe

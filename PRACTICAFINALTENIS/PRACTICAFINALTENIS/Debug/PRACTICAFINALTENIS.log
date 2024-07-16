@@ -1,0 +1,9 @@
+﻿  PracticaTenis (2).cpp
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(22,52): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTenista' cuando no hay ninguna variable declarada
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(23,81): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tPuntosJuego' cuando no hay ninguna variable declarada
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(95,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(337,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(338,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(712,109): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\migue\source\repos\PRACTICAFINALTENIS\PRACTICAFINALTENIS\PracticaTenis (2).cpp(724,6): warning C4101: 'eliminar': variable local sin referencia
+  PRACTICAFINALTENIS.vcxproj -> C:\Users\migue\source\repos\PRACTICAFINALTENIS\Debug\PRACTICAFINALTENIS.exe

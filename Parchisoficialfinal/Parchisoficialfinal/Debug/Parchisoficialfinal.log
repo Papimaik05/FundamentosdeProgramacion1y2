@@ -1,0 +1,4 @@
+﻿  kue.cpp
+C:\Users\migue\source\repos\Parchisoficialfinal\Parchisoficialfinal\kue.cpp(349,7): warning C4101: 'c': variable local sin referencia
+C:\Users\migue\source\repos\Parchisoficialfinal\Parchisoficialfinal\kue.cpp(263): warning C4715: 'Jugador': no todas las rutas de acceso de control devuelven un valor
+C:\Users\migue\source\repos\Parchisoficialfinal\Parchisoficialfinal\kue.cpp(329): error C4700: se utilizó la variable local 'i' sin inicializar
